@@ -1,2 +1,2 @@
 # privacy-policy
-Privacy Policy for OAMI Solutions Android applications.
+Privacy Policy for Tattaz Tech Android applications.
